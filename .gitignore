@@ -1,0 +1,50 @@
+# Gradle
+.gradle/
+build/
+*/build/
+!/gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration
+local.properties
+*.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+*.classpath
+.project
+.settings/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Keystore
+keystore/
+*.keystore
+*.jks
+
+# Build outputs
+*.apk
+*.aar
+*.ap_
+
+# Temp
+*.tmp
+*.temp
+temp/
+
+# Coverage
+*.ec
+*.exec
+
+# Dependency cache
+.dependencies/

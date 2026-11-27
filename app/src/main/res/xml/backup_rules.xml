@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Exclude databases and cache -->
+    <exclude domain="database" path="music.db" />
+    <exclude domain="database" path="music.db-shm" />
+    <exclude domain="database" path="music.db-wal" />
+    <exclude domain="file" path="cache" />
+    <exclude domain="file" path="code_cache" />
+    <exclude domain="file" path="no_backup" />
+    <exclude domain="sharedpref" path="music_prefs.xml" />
+</full-backup-content>

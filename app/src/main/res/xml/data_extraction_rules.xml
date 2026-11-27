@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="database" path="music.db" />
+        <exclude domain="database" path="music.db-shm" />
+        <exclude domain="database" path="music.db-wal" />
+        <exclude domain="file" path="cache" />
+        <exclude domain="file" path="code_cache" />
+        <exclude domain="file" path="no_backup" />
+        <exclude domain="sharedpref" path="music_prefs.xml" />
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="database" path="music.db" />
+        <exclude domain="database" path="music.db-shm" />
+        <exclude domain="database" path="music.db-wal" />
+        <exclude domain="file" path="cache" />
+        <exclude domain="file" path="code_cache" />
+        <exclude domain="file" path="no_backup" />
+        <exclude domain="sharedpref" path="music_prefs.xml" />
+    </device-transfer>
+</data-extraction-rules>

@@ -1,0 +1,10 @@
+APK Analysis Summary for Spotify
+================================
+Total files: 4069
+DEX files (code): 16
+Resource files: 3987
+  - Layouts: 1376
+  - Drawables: 1564
+  - Values: 0
+Assets: 9
+Native libraries: 0

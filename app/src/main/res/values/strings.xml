@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Music Player</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_library">Your Library</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Home -->
+    <string name="home_recently_played">Recently Played</string>
+    <string name="home_made_for_you">Made For You</string>
+    <string name="home_new_releases">New Releases</string>
+    <string name="home_recommended">Recommended For You</string>
+    <string name="home_popular_near_you">Popular Near You</string>
+    <string name="home_see_all">See All</string>
+    <string name="home_jump_back_in">Jump Back In</string>
+
+    <!-- Search -->
+    <string name="search_hint">What do you want to listen to?</string>
+    <string name="search_recent_searches">Recent Searches</string>
+    <string name="search_trending">Trending Searches</string>
+    <string name="search_categories">Browse Categories</string>
+    <string name="search_clear_recent">Clear Recent</string>
+    <string name="search_no_results">No results found for</string>
+    <string name="search_try_different">Try a different search</string>
+
+    <!-- Library -->
+    <string name="library_playlists">Playlists</string>
+    <string name="library_albums">Albums</string>
+    <string name="library_artists">Artists</string>
+    <string name="library_liked_songs">Liked Songs</string>
+    <string name="library_recently_played">Recently Played</string>
+    <string name="library_create_playlist">Create Playlist</string>
+    <string name="library_empty_playlists">You don\'t have any playlists yet</string>
+    <string name="library_empty_albums">You haven\'t saved any albums yet</string>
+    <string name="library_empty_artists">You aren\'t following any artists yet</string>
+    <string name="library_sort">Sort</string>
+    <string name="library_filter">Filter</string>
+    <string name="library_grid_view">Grid</string>
+    <string name="library_list_view">List</string>
+
+    <!-- Playlist -->
+    <string name="playlist_create_title">Create Playlist</string>
+    <string name="playlist_name_hint">Playlist Name</string>
+    <string name="playlist_description_hint">Description (optional)</string>
+    <string name="playlist_public">Public Playlist</string>
+    <string name="playlist_collaborative">Collaborative</string>
+    <string name="playlist_create_button">Create</string>
+    <string name="playlist_edit_title">Edit Playlist</string>
+    <string name="playlist_add_songs">Add Songs</string>
+    <string name="playlist_remove">Remove from Playlist</string>
+    <string name="playlist_delete_confirm">Delete this playlist?</string>
+    <string name="playlist_follow">Follow</string>
+    <string name="playlist_unfollow">Unfollow</string>
+    <string name="playlist_share">Share</string>
+
+    <!-- Now Playing -->
+    <string name="now_playing_shuffle">Shuffle</string>
+    <string name="now_playing_repeat">Repeat</string>
+    <string name="now_playing_repeat_one">Repeat One</string>
+    <string name="now_playing_queue">Queue</string>
+    <string name="now_playing_lyrics">Lyrics</string>
+    <string name="now_playing_devices">Devices</string>
+    <string name="now_playing_share">Share</string>
+    <string name="now_playing_sleep_timer">Sleep Timer</string>
+    <string name="now_playing_like">Add to Liked Songs</string>
+    <string name="now_playing_unlike">Remove from Liked Songs</string>
+    <string name="now_playing_queue_empty">Queue is empty</string>
+    <string name="now_playing_queue_add">Add to Queue</string>
+    <string name="now_playing_history">History</string>
+    <string name="now_playing_clear_queue">Clear Queue</string>
+
+    <!-- Playback -->
+    <string name="playback_play">Play</string>
+    <string name="playback_pause">Pause</string>
+    <string name="playback_next">Next</string>
+    <string name="playback_previous">Previous</string>
+    <string name="playback_shuffle_on">Shuffle On</string>
+    <string name="playback_shuffle_off">Shuffle Off</string>
+    <string name="playback_repeat_all">Repeat All</string>
+    <string name="playback_repeat_one">Repeat One</string>
+    <string name="playback_repeat_off">Repeat Off</string>
+
+    <!-- Settings -->
+    <string name="settings_account">Account</string>
+    <string name="settings_playback">Playback</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="settings_storage">Storage</string>
+    <string name="settings_about">About</string>
+    <string name="settings_legal">Legal</string>
+    <string name="settings_audio_quality">Audio Quality</string>
+    <string name="settings_crossfade">Crossfade</string>
+    <string name="settings_gapless">Gapless Playback</string>
+    <string name="settings_autoplay">Autoplay Similar Songs</string>
+    <string name="settings_download_quality">Download Quality</string>
+    <string name="settings_equalizer">Equalizer</string>
+
+    <!-- Errors & States -->
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_no_results">No results found</string>
+    <string name="error_playback">Playback error</string>
+    <string name="loading">Loading…</string>
+    <string name="retry">Retry</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="offline_mode">You\'re offline. Showing cached content.</string>
+
+    <!-- Accessibility -->
+    <string name="a11y_play_button">Play button</string>
+    <string name="a11y_pause_button">Pause button</string>
+    <string name="a11y_next_button">Next track button</string>
+    <string name="a11y_previous_button">Previous track button</string>
+    <string name="a11y_shuffle_button">Shuffle button</string>
+    <string name="a11y_repeat_button">Repeat button</string>
+    <string name="a11y_like_button">Like button</string>
+    <string name="a11y_queue_button">Queue button</string>
+    <string name="a11y_lyrics_button">Lyrics button</string>
+    <string name="a11y_volume_slider">Volume slider</string>
+    <string name="a11y_seek_bar">Seek bar</string>
+    <string name="a11y_album_art">Album artwork</string>
+    <string name="a11y_track_title">Track title</string>
+    <string name="a11y_artist_name">Artist name</string>
+</resources>
