@@ -114,7 +114,7 @@ dependencies {
 
     // Hilt
     implementation("com.google.dagger:hilt-android:2.51.1")
-    implementation("androidx.hilt:hilt-viewmodel:1.2.0")
+    implementation("androidx.hilt:hilt-viewmodel:1.0.0")
     kapt("com.google.dagger:hilt-compiler:2.51.1")
 
     // Coil
